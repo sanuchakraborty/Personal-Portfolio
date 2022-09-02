@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.6c0c5f58.css",
+    "main.js": "/Personal-Portfolio/static/js/main.c7fb011d.js",
+    "static/media/resume.pdf": "/Personal-Portfolio/static/media/resume.fba277dc014207ffe172.pdf",
+    "static/media/profilePicCircular.png": "/Personal-Portfolio/static/media/profilePicCircular.ca566dc12d50db3ee95f.png",
+    "static/media/FoodAddict.png": "/Personal-Portfolio/static/media/FoodAddict.b9d3ce038fac5804db86.png",
+    "static/media/smartETH.png": "/Personal-Portfolio/static/media/smartETH.00fce8c5d3f76299a430.png",
+    "static/media/DSA.png": "/Personal-Portfolio/static/media/DSA.f3fb4d7eaff8e1dd1d47.png",
+    "static/media/bzs.png": "/Personal-Portfolio/static/media/bzs.2721475fe0fd08e0375d.png",
+    "static/media/softcomputing.png": "/Personal-Portfolio/static/media/softcomputing.d6654f1eaf498293a32d.png",
+    "static/media/javascript-modified.png": "/Personal-Portfolio/static/media/javascript-modified.9301c47aace7be4c2abe.png",
+    "static/media/webdevelopment.png": "/Personal-Portfolio/static/media/webdevelopment.07bd893c43e4227f2633.png",
+    "static/media/css-modified.png": "/Personal-Portfolio/static/media/css-modified.e1b22a8fb0d941e8430f.png",
+    "static/media/C++Abdul.png": "/Personal-Portfolio/static/media/C++Abdul.0f668f50b4eb11436d6d.png",
+    "static/media/pmhs.png": "/Personal-Portfolio/static/media/pmhs.cb78df3a4490b45a263c.png",
+    "static/media/html.png": "/Personal-Portfolio/static/media/html.5c68578d68b16cb0f642.png",
+    "static/media/react.png": "/Personal-Portfolio/static/media/react.21d60ddd1110b1643ebc.png",
+    "static/media/iiestShibpurLogo.png": "/Personal-Portfolio/static/media/iiestShibpurLogo.97fd2161f07aa3fc6ae0.png",
+    "static/media/dbank_logo.png": "/Personal-Portfolio/static/media/dbank_logo.faa2c3a0736a0d678ed7.png",
+    "static/media/thumbup.png": "/Personal-Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/iitGuwahatiLogo.png": "/Personal-Portfolio/static/media/iitGuwahatiLogo.f286a9add613de00f27a.png",
+    "static/media/wave.png": "/Personal-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Personal-Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Personal-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/C++.png": "/Personal-Portfolio/static/media/C++.7454c555c56975339b6a.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.6c0c5f58.css.map": "/Personal-Portfolio/static/css/main.6c0c5f58.css.map",
+    "main.c7fb011d.js.map": "/Personal-Portfolio/static/js/main.c7fb011d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0c5f58.css",
+    "static/js/main.c7fb011d.js"
+  ]
+}
